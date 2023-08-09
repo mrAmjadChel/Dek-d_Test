@@ -11,8 +11,6 @@
     <h1>ตั้งกระทู้ใหม่</h1>
         <form action="create_post.php" method="post">
             <input type="text" id="title" name="title" minlength="4" maxlength="140" placeholder="หัวข้อกระทู้" required><br>
-                <button id="boldBtn">Bold</button>
-                <button id="italicBtn">Italic</button>
             <textarea id="content" name="content" rows="6" cols="50" minlength="6" maxlength="2000" placeholder="เนื้อหากระทู้" required></textarea><br>
             
             <input type="submit" value="ตั้งกระทู้">
@@ -43,5 +41,4 @@
     </div>
 
 </body>
-<script src="script.js"></script>
 </html>

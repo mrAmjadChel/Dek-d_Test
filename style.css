@@ -32,7 +32,7 @@ input[type="text"], textarea {
 
 
 button {
-    background-color: #cddcec;
+    background-color: #d830bc;
     color: #070707;
     margin: 5px auto;
     border: none;
@@ -43,7 +43,7 @@ button {
 }
 
 button:hover {
-    background-color: #e6eaee;
+    background-color: #e0b4d2;
 }
 
 .container2 {
